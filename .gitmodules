@@ -1,0 +1,3 @@
+[submodule "AuthenticodeExaminer"]
+	path = AuthenticodeExaminer
+	url = https://github.com/vcsjones/AuthenticodeExaminer

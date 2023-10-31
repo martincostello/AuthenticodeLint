@@ -20,6 +20,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="AuthenticodeExaminer" Version="0.3.0" />
+    <ProjectReference Include="..\AuthenticodeExaminer\src\AuthenticodeExaminer\AuthenticodeExaminer.csproj" />
   </ItemGroup>
 </Project>
